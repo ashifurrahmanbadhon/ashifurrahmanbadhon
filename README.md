@@ -46,6 +46,7 @@ Bengali income–expense tracker — daily আয়-ব্যয়ের হ�
 ## 🎓 Background
 
 BSc in Electrical & Electronic Engineering — IUBAT (2023).
+Certified in Artificial Intelligence (AI).
 Engineering training: AutoCAD Electrical · GIS · Power System Network Analysis.
 
 ## 📊 GitHub Stats
