@@ -3,14 +3,14 @@
 **Electrical & Electronics Engineer · Full-Stack Web Developer · Automation Specialist**
 📍 Dhaka, Bangladesh · Founder — [Rising36](https://rising36.com)
 
-I build production-grade web platforms and business automation — from a 27-tool online platform used daily, to workflow automation that saves businesses hours every week.
+I build production-grade web platforms and business automation — from a 26-tool online platform used daily, to workflow automation that saves businesses hours every week.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### [ToolGhor (টুলঘর)](https://github.com/ashifurrahmanbadhon/toolghor) · [Live ↗](https://toolghor.vercel.app)
-27 free online tools — PDF, image, QR, calculators, video & resume — in one privacy-first platform.
+26 free online tools — PDF, image, QR, calculators, video & resume — in one privacy-first platform.
 `Next.js 16` `TypeScript` `Tailwind CSS` `Neon Postgres` · Bilingual (English / বাংলা) · Most tools run 100% in-browser
 
 ### [Portfolio & Central CMS](https://github.com/ashifurrahmanbadhon/portfolio) · [Live ↗](https://ashifurrahman.vercel.app)
